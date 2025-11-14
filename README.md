@@ -2,7 +2,7 @@
 
 This repository contains a suite of security tools developed during my internship in Offensive Cybersecurity. The tools focus on the **Reconnaissance**, **Enumeration**, and **Cryptography** phases of the ethical hacking lifecycle.
 
-## 🛠️ Project Overview
+## Project Overview
 
 | File | Tool Name | Description |
 |------|-----------|-------------|
@@ -12,7 +12,7 @@ This repository contains a suite of security tools developed during my internshi
 | `project04.py` | **PDF Password Auditor** | An offensive tool to test password strength using dictionary and brute-force attacks against PDF encryption. |
 | `project05.py` | **Network Service Scanner** | A high-concurrency port scanner that identifies open ports and performs banner grabbing for service versioning. |
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository:**
    ```bash
@@ -28,5 +28,6 @@ This repository contains a suite of security tools developed during my internshi
    python3 project05.py
 
 
-⚠️ **Disclaimer**⚠️ 
-These tools are developed for educational and authorized testing purposes only. The author is not responsible for any misuse of these utilities. Always obtain proper authorization before scanning targets.
+## ⚠️ Disclaimer
+
+> These tools are developed for **educational and authorized testing purposes only**. The author is not responsible for any misuse of these utilities. Always obtain proper authorization before scanning targets.
