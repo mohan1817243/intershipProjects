@@ -1,0 +1,5 @@
+dnspython
+requests
+PyPDF2
+pikepdf
+tqdm
