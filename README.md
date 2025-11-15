@@ -31,3 +31,6 @@ This repository contains a suite of security tools developed during my internshi
 ## ⚠️ Disclaimer
 
 > These tools are developed for **educational and authorized testing purposes only**. The author is not responsible for any misuse of these utilities. Always obtain proper authorization before scanning targets.
+
+##NOTE:
+Still updating 
